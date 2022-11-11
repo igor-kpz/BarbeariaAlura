@@ -1,5 +1,7 @@
 h1{
     text-align:center;
+    color: crimson;
+    
 }
 
 p {
@@ -8,5 +10,9 @@ p {
 }
 
 body {
-    background: #cccccc;
+    background: #1ec21e;
+}
+
+em strong {
+    color:blueviolet;
 }
